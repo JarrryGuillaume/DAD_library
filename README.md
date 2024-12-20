@@ -1,4 +1,4 @@
-# DAD - Discrete Anomaly Detectiong
+# DAD - Discrete Anomaly Detection
 
 `DAD` is a python library for discrete sequences anomaly detection. This library provides various anomaly detection methods for discrete sequences based on the techniques discussed in the paper [Anomaly Detection for Discrete Sequences: A Survey](https://ieeexplore.ieee.org/document/5645624)
 
